@@ -5,7 +5,7 @@ git clone |url| - Clona um repositório
 git status - mostra o estado do repositório atual
 git add . - Adiciona as alterações para o controle de versões local
 git commit -m "Mensagem" - Commita as alterações do controle de versões local com mensagem
-git push origin main
+git push origin main -> Sobe as alterações do controle de versões local para o servidor
 
 Ctrl + d -> Encerra o git bash
 Ctrl + l -> Limpa a tela do git bash
